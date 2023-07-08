@@ -11,6 +11,7 @@ From course: <https://www.youtube.com/watch?v=mSUKMfmLAt0>
 - 05.07: 7:32:00, 7:38:49, 8:05:27
 - 06.07: 8:20:36
 - 07.07: 8:30:22
+- 08.07: End course, Deployment on Vercel
 
 ## Tech stack
 
