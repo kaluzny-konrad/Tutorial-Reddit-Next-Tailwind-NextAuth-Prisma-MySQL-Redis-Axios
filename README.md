@@ -1,17 +1,8 @@
 # Tutorial-Breadit
 
 From course: <https://www.youtube.com/watch?v=mSUKMfmLAt0>
-
-- 29.06: 21:51
-- 30.06: 59:17, 1:04:11, 1:40:24, 1:54:17
-- 01.07: 2:19:39, 2:37:24, 2:50:25, 3:15:35, 3:34:00
-- 02.07: 4:21:47, 5:02:18, 5:32:08
-- 03.07: 5:50:58, 6:31:36
-- 04.07: 6:57:01, 7:13:41
-- 05.07: 7:32:00, 7:38:49, 8:05:27
-- 06.07: 8:20:36
-- 07.07: 8:30:22
-- 08.07: End course, Deployment on Vercel
+repo with full course code.
+original code: https://github.com/joschan21/breadit
 
 ## Tech stack
 
