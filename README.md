@@ -1,8 +1,8 @@
 # Tutorial-Breadit
 
-From course: <https://www.youtube.com/watch?v=mSUKMfmLAt0>
-repo with full course code.
-original code: https://github.com/joschan21/breadit
+- From course: <https://www.youtube.com/watch?v=mSUKMfmLAt0>
+- repo with full course code.
+- original code: https://github.com/joschan21/breadit
 
 ## Tech stack
 
@@ -15,15 +15,15 @@ original code: https://github.com/joschan21/breadit
 - upstash for redis
 
 ## Features
-Infinite scrolling for dynamically loading posts
-Authentication using NextAuth & Google
-Custom feed for authenticated users
-Advanced caching using Upstash Redis
-Optimistic updates for a great user experience
-Modern data fetching using React-Query
-A beautiful and highly functional post editor
-Image uploads & link previews
-Full comment functionality with nested replies
+- **Infinite scrolling** for dynamically loading posts
+- Authentication using **NextAuth** & **Google**
+- Custom feed for authenticated users
+- Advanced caching using **Upstash Redis**
+- **Optimistic updates** for a great user experience
+- Modern data fetching using **React-Query**
+- A beautiful and highly functional **post editor**
+- **Image uploads** & link previews
+- Full comment functionality with nested replies
 
 ## Instalation
 
