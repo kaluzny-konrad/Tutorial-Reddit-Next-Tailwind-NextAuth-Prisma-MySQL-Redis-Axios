@@ -25,6 +25,11 @@
 - **Image uploads** & link previews
 - Full comment functionality with nested replies
 
+## Photos:
+![MainPage](example1.png)
+![Comments](example2.png)
+![Editor - Create Post](example3.png)
+
 ## Instalation
 
 1. npm install
