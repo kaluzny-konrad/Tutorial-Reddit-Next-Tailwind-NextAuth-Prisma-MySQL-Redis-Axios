@@ -23,15 +23,26 @@ From course: <https://www.youtube.com/watch?v=mSUKMfmLAt0>
 - uploadthing.com
 - upstash for redis
 
+## Features
+Infinite scrolling for dynamically loading posts
+Authentication using NextAuth & Google
+Custom feed for authenticated users
+Advanced caching using Upstash Redis
+Optimistic updates for a great user experience
+Modern data fetching using React-Query
+A beautiful and highly functional post editor
+Image uploads & link previews
+Full comment functionality with nested replies
+
+## Instalation
+
+1. npm install
+
 Repo updated with:
 
 - npm-check
 - npm-check-updates
 - npm outdated
-
-## Instalation
-
-1. npm install
 
 ## Process
 
